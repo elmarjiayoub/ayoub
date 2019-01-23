@@ -35,3 +35,6 @@ public class Main {
     public void setCognome(String cognome) {
         Cognome = cognome;
     }
+
+    System.out.println();
+}
